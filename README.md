@@ -15,7 +15,7 @@ This is an app used to shorten the large and clumsy-looking URLs into smaller on
 Clone the repo in your local system
 
 ```bash
-git clone https://github.com/1010varun/urlShortner.git
+https://github.com/sakshitajd/url-shorter.git
 ```
 
 Install server
